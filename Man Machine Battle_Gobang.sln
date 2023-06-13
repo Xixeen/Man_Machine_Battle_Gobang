@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Man Machine Battle_Gobang_V1.0", "Man Machine Battle_Gobang.vcxproj", "{E92204F4-CB29-47A9-8A51-E9B4E70293BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Debug|x64.ActiveCfg = Debug|x64
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Debug|x64.Build.0 = Debug|x64
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Debug|x86.ActiveCfg = Debug|Win32
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Debug|x86.Build.0 = Debug|Win32
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Release|x64.ActiveCfg = Release|x64
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Release|x64.Build.0 = Release|x64
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Release|x86.ActiveCfg = Release|Win32
+		{E92204F4-CB29-47A9-8A51-E9B4E70293BE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {992F35ED-C7C0-4A29-9E15-7D3C5B15E4A0}
+	EndGlobalSection
+EndGlobal
