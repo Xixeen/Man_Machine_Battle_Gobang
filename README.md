@@ -1,0 +1,2 @@
+# Man_Machine_Battle_Gobang
+一个简陋半成品，时间问题一直没有完善，五子棋的人机对战小游戏
